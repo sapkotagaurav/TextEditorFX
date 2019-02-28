@@ -1,0 +1,12 @@
+#small{
+    -fx-font-size:15px
+}
+#medium{
+    -fx-font-size:25px
+}
+#large{
+    -fx-font-size:45px
+}
+        #blue{
+        -fx-text-fill: blueviolet
+    }
