@@ -3,7 +3,7 @@
 # Text Editor FX
 ## NotePad Inspired Editor Built on JavaFX
 
-_It is a personal project I did when I was 15 years old. I am still proud of it._
+_Just a basic personal project._
 
 ![Screenshot](https://i.imgur.com/JpvVFsc.png)
 
